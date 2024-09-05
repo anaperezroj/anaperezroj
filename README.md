@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ana Pérez
 
-<!--
-**anaperezroj/anaperezroj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desarrolladora web Full Stack** apasionada por la tecnología y siempre en busca de aprender más.  
+📍 Ubicación: Cádiz, España  
+💼 Buscando nuevas oportunidades y retos.
 
-Here are some ideas to get you started:
+### 🛠️ Habilidades:
+| Frontend      | Backend       | Otras tecnologías |
+| ------------- | ------------- | ----------------- |
+| React         | Node.js       | Photoshop         |
+| Reflex        | Express       | Figma             |
+| CSS           | Python        | SketchUp          |
+| HTML5         | Javascript    | Autocad           |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Proyectos Destacados:
+- 🎮 [EMOJI-GAME](https://github.com/anaperezroj/EMOJI-GAME): Un juego de parejas con CSS.
+- 🏙️ [Proyecto-2-Ciudad-Accesible](https://github.com/anaperezroj/Proyecto-2-Ciudad-Accesible): Proyecto de accesibilidad con JavaScript.
+- 🖥️ [Web-Bootcamp](https://github.com/anaperezroj/Web-Bootcamp): Proyecto para practicar JavaScript.
+
+### 📫 ¡Conéctate conmigo!
+[LinkedIn](https://www.linkedin.com/in/anaperezroj/) | [GitHub](https://github.com/anaperezroj) | [Email](mailto:e4a.perez24@gmail.com)
