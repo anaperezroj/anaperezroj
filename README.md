@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Ana Pérez
 
-🚀 **Desarrolladora web Full Stack** apasionada por la tecnología y siempre en busca de aprender más.  
+🚀 **Desarrolladora Frontend** apasionada por la tecnología y siempre en busca de aprender más.  
 📍 Ubicación: Cádiz, España  
 💼 Buscando nuevas oportunidades y retos.
 
